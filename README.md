@@ -1,5 +1,6 @@
 # 20CYS383 Java Programming Lab
-![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
+![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange)
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -15,8 +16,27 @@
 
 ### :watch: Course Plan 
 
-| Unit # | Lecture No. | Topic | Methodology | No. of Hours |
-|:------:|:-----------:|-------|-------------|:------------:|
+| Unit # | Lecture No. | Topic | No. of Hours |
+|:------:|:-----------:|-------|:------------:|
+|    1   |             | Introduction to Java |   |
+|    1   |             | Introduction to Classes and Objects |  | 
+|    1   |             | Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
+|    1   |             | Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
+|    1   |             | Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
+|    1   |             | Abstract class and methods, Interfaces and Packages |   | 
+|    2   |             | Wrapper classes |   | 
+|    2   |             | String, and StringBuilder classes |   | 
+|    2   |             | Number, Math, Random, Array methods, Date-Time. |   | 
+|    2   |             | Java files and I/O, Exceptions, Inner classes. |  | 
+|    2   |             | Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
+|    2   |             | Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
+|    2   |             | Serialization, Networking |  | 
+|    3   |             | Concurrency Creating Threads, Thread states, Runnable threads |  | 
+|    3   |             | Coordinating Threads, Interrupting Threads |     | 
+|    3   |             | Multi-threading, Runnable Interface |  | 
+|    3   |             | UI integration of Java concepts with Swing |   |
+|    3   |             | Frame Layouts, Widgets, displaying image and graphics |   | 
+|    3   |             | Applet basics |  |
 
 
 ### Evaluation Criteria

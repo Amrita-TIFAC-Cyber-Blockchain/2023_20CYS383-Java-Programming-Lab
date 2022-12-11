@@ -9,9 +9,9 @@
 
 | CO#  | CO Description |
 |------|----------------|
-| CO1 | To build software development skills using java programming for real world applications |
-| CO2 | To implement concurrency using Threads |
-| CO3 | To use Collections in JAVA |
+| CO1 | Execute Java programs using object-oriented class structures with parameters, constructors, and utility and calculations methods, including inheritance, test classes and exception handling. |
+| CO2 | Execute Java programs manipulating Strings and text documents. |
+| CO3 | Execute Java programs that include GUIs and event driven programming. |
 
 ### :watch: Course Plan 
 
@@ -23,7 +23,10 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Continuous Assessment | 80 |
+| **[Internal]** Assignments (4 Nos) | 20 |
+| **[Internal]** Mini-Project | 30 |
+| **[Internal]** Periodical I | 15 |
+| **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
 
 ### :green_book: Text and Reference Books

@@ -1,6 +1,6 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange)
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/-HPOJ-brown) 
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -48,6 +48,29 @@
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
+
+### Dates and Deadlines
+
+| Deadline for | Dates |
+|:------------:|:-----:|
+| Pair Programmer Selection | 20 - Feb - 2023 |
+| Project Team Selection | 20 - Feb - 2023 |
+| Contest - 1 | 02 - Mar - 2023 |
+| Contest - 2 | 21 - Mar - 2023 |
+| Periodicals I | TBD |
+| Contest - 3 | 12 - Apr - 2023 |
+| Mini-Project Review 1 | 15 - Apr - 2023 |
+| Contest - 4 | 29 - Apr - 2023 |
+| Periodicals II | TBD |
+| Contest - 5 | 10 - May - 2023 |
+| Mini-Project Review 2 | 15 - May - 2023 |
+| Contest - 6 | 25 - May - 2023 |
+| Contest - 7 | 01 - Jun - 2023 |
+| Contest - 8 | 15 - Jun - 2023 |
+| Mini-Project Review Final | 20 - Jun - 2023 |
+| End Semester | TBD |
+
+Click [Contest LeaderBoads](LeaderBoard) to view.
 
 ### :green_book: Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.

@@ -1,6 +1,6 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/-HPOJ-brown) 
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -43,8 +43,8 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Assignments (4 Nos) | 20 |
-| **[Internal]** Mini-Project | 30 |
+| **[Internal]** Assignments (6 Nos) | 30 |
+| **[Internal]** Mini-Project | 10 + 10 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
@@ -70,7 +70,7 @@
 | Mini-Project Review Final | 20 - Jun - 2023 |
 | End Semester | TBD |
 
-Click [Contest LeaderBoads](LeaderBoard) to view.
+Click [Contest LeaderBoard](LeaderBoard) to view.
 
 ### :green_book: Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.

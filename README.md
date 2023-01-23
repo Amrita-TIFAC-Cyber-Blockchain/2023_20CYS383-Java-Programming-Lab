@@ -4,9 +4,9 @@
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
-#### :teacher: Co-Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
+#### Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
-### :books: Course Outcome
+### Course Outcome
 
 | CO#  | CO Description |
 |------|----------------|
@@ -14,7 +14,7 @@
 | CO2 | Execute Java programs manipulating Strings and text documents. |
 | CO3 | Execute Java programs that include GUIs and event driven programming. |
 
-### :watch: Course Plan 
+### Course Plan 
 
 | Unit # | Lecture No. | Topic | No. of Hours |
 |:------:|:-----------:|-------|:------------:|
@@ -72,7 +72,7 @@
 
 Click [Contest LeaderBoard](LeaderBoard) to view.
 
-### :green_book: Text and Reference Books
+### Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.
 - **Text:** Naughton P. and Schildt H. Java 2: The complete reference. Eighth Edition, Tata McGraw- Hill; 2011.
 - **Reference :** Campione and Walrath, The Java Tutorial, Addison Wesely; 1996.

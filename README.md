@@ -43,7 +43,7 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Assignments (6 Nos) | 30 |
+| **[Internal]** Lab Evaluation/Contests (6 Nos) | 30 |
 | **[Internal]** Mini-Project | 10 + 10 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |

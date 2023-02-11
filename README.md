@@ -44,7 +44,7 @@
 | Components | Marks |
 |:----------|:-----:|
 | **[Internal]** Lab Evaluation/Contests (6 Nos) | 30 |
-| **[Internal]** Mini-Project | 10 + 10 |
+| **[Internal]** Mini-Project + GitHub/Record Maintenance | 10 + 10 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
@@ -53,8 +53,10 @@
 
 | Deadline for | Dates |
 |:------------:|:-----:|
-| Pair Programmer Selection | 20 - Feb - 2023 |
-| Project Team Selection | 20 - Feb - 2023 |
+| Intimation - Pair Programmer | 10 - Feb - 2023 |
+| Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
+| Pair Programmer Finalization | 16 - Feb - 2023 |
+| Project Topic Finalization | 25 - Feb - 2023 |
 | Contest - 1 | 02 - Mar - 2023 |
 | Contest - 2 | 21 - Mar - 2023 |
 | Periodicals I | TBD |

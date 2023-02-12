@@ -18,7 +18,7 @@
 |  [JPL-PP-11](Mini-Project/11) |  Ashwin Anand <br/> S Rajendraprasad | |  | |
 |  [JPL-PP-12](Mini-Project/12) |  Basi Reddy Rohith Reddy <br/> Tippireddy Pavan Kumar Reddy | |  | |
 |  [JPL-PP-13](Mini-Project/13) |  Deepthi J <br/> Yaswanth Gadamsetti |  |  | |
-|  [JPL-PP-14](Mini-Project/14) |  Dyanesh S <br/> | |  | |
+|  [JPL-PP-14](Mini-Project/14) |  Dyanesh S <br/> Sourabh Sasikanthan | |  | |
 |  [JPL-PP-15](Mini-Project/15) |  Gokul <br/> Shree Om Sharma | |  | |
 |  [JPL-PP-16](Mini-Project/16) |  Gokulachselvan C D <br/> K S Santhossh | |  | |
 |  [JPL-PP-17](Mini-Project/17) |  Golla Hemesh Sai <br/> Kakara Manoj Ram | |  | |
@@ -45,12 +45,12 @@
 |  [JPL-PP-38](Mini-Project/38) |  S Adhwaith <br/> Sanjai Prashad D | |  | |
 |  [JPL-PP-39](Mini-Project/39) |  Saranesh E S <br/> Vishnu K | |  | |
 |  [JPL-PP-40](Mini-Project/40) |  Seran Pandiyan I P <br/> Vinoth Kumar C |   |  | |
-|  [JPL-PP-41](Mini-Project/41) |  Sourabh Sasikanthan <br/> | |  | |
-|  [JPL-PP-42](Mini-Project/42) |  Sri Sai Tanvi Sonti <br/> | |  | |
-|  [JPL-PP-43](Mini-Project/43) |  Sudhir R T <br/> Sudipt Kumar | |  | |
-|  [JPL-PP-44]() |  S Suganth Sarvesh <br/> Yuvaraj Kumar G P | |  | |
-|  [JPL-PP-45]() |  Swetha V <br/> |  |  | |
-|  [JPL-PP-46]() |  Umashankar Kavya <br/> |  |  | | 
+|  [JPL-PP-41](Mini-Project/41) |  Sri Sai Tanvi Sonti <br/> | |  | |
+|  [JPL-PP-42](Mini-Project/42) |  Sudhir R T <br/> Sudipt Kumar | |  | |
+|  [JPL-PP-43](Mini-Project/43) |  S Suganth Sarvesh <br/> Yuvaraj Kumar G P | |  | |
+|  [JPL-PP-44]() |  Swetha V <br/> |  |  | |
+|  [JPL-PP-45]() |  Umashankar Kavya <br/> |  |  | | 
+
 
 
 

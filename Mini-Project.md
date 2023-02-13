@@ -5,7 +5,7 @@
 
 | Team Number # |   Pair Programmers   | Topics | Planned for | Reviewed and Accepted | 
 |:-------------:|:--------------------:|:-------|:-----------:|:---------------------:|
-|  [JPL-PP-01](Mini-Project/1) |  Abinesh G <br/>   | |  | |
+|  [JPL-PP-01](Mini-Project/1) |  Abinesh G <br/> Anu Priya P | |  | |
 |  [JPL-PP-02](Mini-Project/2) |  Achyuth Anand <br/> Nived Dineshan | |  | |
 |  [JPL-PP-03](Mini-Project/3) |  Aishwarya G <br/> Suvetha D P | |  | |
 |  [JPL-PP-04](Mini-Project/4) |  Aishwarya G S <br/> Karanam Hitesh Manjunath | |  | |
@@ -26,7 +26,7 @@
 |  [JPL-PP-19](Mini-Project/19) |  Harshitha Ranjith <br/> Nithin S | |  | |
 |  [JPL-PP-20](Mini-Project/20) |  Iniyan R <br/> Pranav S R | |  | |
 |  [JPL-PP-21](Mini-Project/21) |  Karaka Sri Sai Nitin <br/> Manbendra Satpathy | |  | |
-|  [JPL-PP-22](Mini-Project/22) |  Kavali Sai Suvarchala <br/> | |  | |
+|  [JPL-PP-22](Mini-Project/22) |  Kavali Sai Suvarchala <br/> (Ramaguru R) | |  | |
 |  [JPL-PP-23](Mini-Project/23) |  Kishanth K <br/> Mittul R | |  | |
 |  [JPL-PP-24](Mini-Project/24) |  Kishore M <br/> Vinoth Kumar D | |  | |
 |  [JPL-PP-25](Mini-Project/25) |  Lakshmi Narayan P <br/> Nishanth S | |  | |
@@ -45,11 +45,11 @@
 |  [JPL-PP-38](Mini-Project/38) |  S Adhwaith <br/> Sanjai Prashad D | |  | |
 |  [JPL-PP-39](Mini-Project/39) |  Saranesh E S <br/> Vishnu K | |  | |
 |  [JPL-PP-40](Mini-Project/40) |  Seran Pandiyan I P <br/> Vinoth Kumar C |   |  | |
-|  [JPL-PP-41](Mini-Project/41) |  Sri Sai Tanvi Sonti <br/> | |  | |
+|  [JPL-PP-41](Mini-Project/41) |  Sri Sai Tanvi Sonti <br/> Swetha V <br/> | |  | |
 |  [JPL-PP-42](Mini-Project/42) |  Sudhir R T <br/> Sudipt Kumar | |  | |
 |  [JPL-PP-43](Mini-Project/43) |  S Suganth Sarvesh <br/> Yuvaraj Kumar G P | |  | |
-|  [JPL-PP-44]() |  Swetha V <br/> |  |  | |
-|  [JPL-PP-45]() |  Umashankar Kavya <br/> |  |  | | 
+|  [JPL-PP-44](Mini-Project/44) |  Umashankar Kavya <br/> (Ramaguru R) |  |  | |
+
 
 
 

@@ -1,5 +1,14 @@
-# 20CYS383 Java Programming Lab
+# 20CYS383 Java Programming Lab ![](https://img.shields.io/badge/Live-green)
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
+
+## Pair Programming
+
+Pair Programming is an Agile Methodology Software Development Technique where two programmers work together. Pair variations includes
+- Expert - Expert
+- Expert - Novice
+- Novice - Novice
+
+In pair programming, the two programmers change roles between a developer and a reviewer.
 
 ## Pair Programmers
 

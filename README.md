@@ -9,7 +9,7 @@
 ### Course Outcome
 
 | CO#  | CO Description |
-|------|----------------|
+|:------:|:----------------|
 | CO1 | Execute Java programs using object-oriented class structures with parameters, constructors, and utility and calculations methods, including inheritance, test classes and exception handling. |
 | CO2 | Execute Java programs manipulating Strings and text documents. |
 | CO3 | Execute Java programs that include GUIs and event driven programming. |
@@ -17,7 +17,7 @@
 ### Course Plan 
 
 | Unit # | Lecture No. | Topic | No. of Hours |
-|:------:|:-----------:|-------|:------------:|
+|:------:|:-----------:|:-------|:------------:|
 |    1   |             | Introduction to Java |   |
 |    1   |             | Introduction to Classes and Objects |  | 
 |    1   |             | Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
@@ -52,10 +52,10 @@
 ### Dates and Deadlines
 
 | Deadline for | Dates |
-|:------------:|:-----:|
+|:------------|:-----:|
 | Intimation - Pair Programmer | 10 - Feb - 2023 |
 | Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
-| Pair Programmer Finalization | 16 - Feb - 2023 |
+| Pair Programmer Finalization | 18 - Feb - 2023 |
 | Project Topic Finalization | 25 - Feb - 2023 |
 | Contest - 1 | 02 - Mar - 2023 |
 | Contest - 2 | 21 - Mar - 2023 |

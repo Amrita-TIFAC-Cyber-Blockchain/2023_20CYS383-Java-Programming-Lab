@@ -57,18 +57,16 @@
 | Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
 | Pair Programmer Finalization | 18 - Feb - 2023 |
 | Project Topic Finalization | 25 - Feb - 2023 |
-| Contest - 1 | 02 - Mar - 2023 |
-| Contest - 2 | 21 - Mar - 2023 |
-| Periodicals I | TBD |
-| Contest - 3 | 12 - Apr - 2023 |
-| Mini-Project Review 1 | 15 - Apr - 2023 |
-| Contest - 4 | 29 - Apr - 2023 |
+| Contest - 1 | 20 - Mar - 2023 |
+| Periodicals I | 05 - Mar - 2023  |
+| Mini-Project Review 1| 15 - Apr - 2023 |
+| Contest - 2 |  - Apr - 2023 |
 | Periodicals II | TBD |
-| Contest - 5 | 10 - May - 2023 |
+| Contest - 3 | 08 - May - 2023 |
 | Mini-Project Review 2 | 15 - May - 2023 |
-| Contest - 6 | 25 - May - 2023 |
-| Contest - 7 | 01 - Jun - 2023 |
-| Contest - 8 | 15 - Jun - 2023 |
+| Contest - 4 | 25 - May - 2023 |
+| Contest - 5 | 01 - Jun - 2023 |
+| Contest - 6 | 15 - Jun - 2023 |
 | Mini-Project Review Final | 20 - Jun - 2023 |
 | End Semester | TBD |
 

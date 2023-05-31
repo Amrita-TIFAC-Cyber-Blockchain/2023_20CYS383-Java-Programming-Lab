@@ -19,8 +19,9 @@ public class TCPClient {
             // Connect to the server on localhost and port 4424
             Socket clientSocket = new Socket("localhost", 4424);
 
+            InputStreamReader inreader = new InputStreamReader(clientSocket.getInputStream());
             // Create input and output streams for client communication
-            BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+            BufferedReader inFromServer = new BufferedReader(inreader);
             DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
 
             // Send request to the server
@@ -29,7 +30,7 @@ public class TCPClient {
             System.out.println("Sent to server: " + request);
 
             // Receive response from the server
-            String response = inFromServer.readLine();
+            String response = inreader.toString();
             System.out.println("Received from server: " + response);
 
             // Close the client socket

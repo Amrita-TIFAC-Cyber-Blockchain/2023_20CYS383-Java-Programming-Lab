@@ -35,7 +35,7 @@ public class ReadFileExample {
     public static void main(String[] args) {
         try {
             // Change the file path if required
-            String filename = "C:\\Projects_Java\\jpl_20cys383\\src\\com\\ramaguru\\amrita\\files\\example.txt";
+            String filename = "C:\\Projects_Java\\lib\\jpl_20cys383\\src\\com\\ramaguru\\amrita\\files\\example.txt";
 
             File myFile = new File(filename);
 

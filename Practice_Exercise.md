@@ -10,18 +10,18 @@ You are tasked with creating a client-server application that simulates a simple
 
 Your task is to implement the following:
 
-- Create an abstract class called FileTransfer with the following methods:
+- Create an _abstract class_ called _FileTransfer_ with the following methods:
   - _void sendFile(String filename)_: This method should send the specified file to the server.
   - _abstract void saveFile(byte[] fileData, String filename)_: This method should be implemented by subclasses to save the file data on the server.
  
-- Create an interface called FileTransferListener with the following methods:
+- Create an _interface_ called _FileTransferListener_ with the following methods:
   - _void onFileSent(String filename)_: This method should be called when a file is successfully sent to the server.
   - _void onFileSaved(String filename)_: This method should be called when a file is successfully saved on the server.
 
-- Create a class called FileTransferClient that extends the FileTransfer class. This class should implement the client-side functionality. It should have the following methods:
+- Create a _class_ called _FileTransferClient_ that extends the _FileTransfer_ class. This class should implement the client-side functionality. It should have the following methods:
   - _void sendFile(String filename)_: This method should send the specified file to the server using socket programming.
 
-- Create a class called FileTransferServer that extends the FileTransfer class. This class should implement the server-side functionality. It should have the following methods:
+- Create a _class_ called _FileTransferServer_ that extends the _FileTransfer_ class. This class should implement the server-side functionality. It should have the following methods:
   - _void start()_: This method should start the server and listen for incoming file transfers.
   - _void saveFile(byte[] fileData, String filename)_: This method should save the received file data on the server's disk.
 

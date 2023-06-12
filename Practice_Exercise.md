@@ -2,6 +2,32 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
 ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
 
+## 12th June 2023
+
+Create an Address Book application using Java Swing that allows users to manage their contacts. The application should have the following features:
+
+### Instructions 
+
+- A main window with a table to display the list of contacts. The table should have columns for Name, Phone Number, and Email.
+- Buttons to add a new contact, edit an existing contact, and delete a contact.
+- A form or dialog box to add or edit a contact. The form should have fields for Name, Phone Number, and Email.
+- Validations should be performed to ensure that the Name field is not empty, and the Phone Number and Email fields have valid formats.
+- When a contact is selected from the table, the details should be displayed in the form or dialog box for editing.
+- Contacts should be stored in memory (no need for a database).
+- Your task is to implement the above features and create a functional Address Book application. Here are some guidelines to follow:
+
+- Use appropriate layouts and components from the Swing library to design the user interface.
+- Implement event listeners and handlers to handle button clicks and perform the necessary operations.
+- Use appropriate data structures to store the contacts in memory, such as a list or an array.
+- Implement validation logic to ensure the user enters valid data.
+- Ensure proper separation of concerns by organizing the code into classes and methods based on their functionality.
+- Apply appropriate exception handling to handle any errors or exceptions that may occur.
+
+Output: 
+<p align="center">
+  <img src="Assets/images/Sample_UI_Address_Book.png" width="550">
+</p>
+
 ## 10th June 2023
 
 You are tasked with creating a client-server application that simulates a simple file transfer system. The system consists of a client program and a server program. The client program sends a file to the server, which then saves the file on the server's disk.

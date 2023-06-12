@@ -6,7 +6,23 @@ package com.ramaguru.amrita.cys.jpl.multithread;
  * @author Ramaguru Radhakrishnan
  * @version 1.0
  */
-public class MultiThreadSimple extends Thread {
+public class MultiThreadMultiClass {
+
+    public static void main(String[] args) {
+        // Create two thread objects
+        MultiThread thread1 = new MultiThread();
+        MultiThread thread2 = new MultiThread();
+
+        // Start the threads
+        thread1.start();
+        thread2.start();
+    }
+}
+
+/**
+ * The MultiThread class extends Thread and represents a thread that prints numbers from 1 to 5.
+ */
+class MultiThread extends Thread {
 
     /**
      * The run() method contains the code to be executed in the thread.
@@ -22,15 +38,5 @@ public class MultiThreadSimple extends Thread {
         } catch (InterruptedException e) {
             System.out.println("Thread interrupted.");
         }
-    }
-
-    public static void main(String[] args) {
-        // Create two thread objects
-        MultiThreadSimple thread1 = new MultiThreadSimple();
-        MultiThreadSimple thread2 = new MultiThreadSimple();
-
-        // Start the threads
-        thread1.start();
-        thread2.start();
     }
 }

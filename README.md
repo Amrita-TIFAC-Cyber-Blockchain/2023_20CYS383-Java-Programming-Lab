@@ -35,8 +35,8 @@
 |    3   |             | Concurrency Creating Threads, Thread states, Runnable threads |  | 
 |    3   |             | Coordinating Threads, Interrupting Threads |     | 
 |    3   |             | Multi-threading, Runnable Interface |  | 
-|    3   |             | UI integration of Java concepts with Swing |   |
-|    3   |             | Frame Layouts, Widgets, displaying image and graphics |   | 
+|    3   |             | UI integration of Java concepts with Swing ![](https://img.shields.io/badge/-Completed-green)  |   |
+|    3   |             | Frame Layouts, Widgets, displaying image and graphics ![](https://img.shields.io/badge/-Completed-green)  |   | 
 |    3   |             | Applet basics |  |
 
 
@@ -58,18 +58,11 @@
 | Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
 | Pair Programmer Finalization | 18 - Feb - 2023 |
 | Project Topic Finalization | 25 - Feb - 2023 |
-| Contest - 1 | 20 - Mar - 2023 |
 | Periodicals I | 05 - Mar - 2023  |
-| Mini-Project Review 1| 15 - Apr - 2023 |
-| Contest - 2 |  - Apr - 2023 |
-| Periodicals II | TBD |
-| Contest - 3 | 08 - May - 2023 |
+| Periodicals II | 13 - Jun - 2023 |
 | Mini-Project Review 2 | 15 - May - 2023 |
-| Contest - 4 | 25 - May - 2023 |
-| Contest - 5 | 01 - Jun - 2023 |
-| Contest - 6 | 15 - Jun - 2023 |
-| Mini-Project Review Final | 20 - Jun - 2023 |
-| End Semester | TBD |
+| End Semester | 19 - Jun - 2023 |
+| Mini-Project and Record Submission | 20 - Jun - 2023 |
 
 Click [Contest LeaderBoard](LeaderBoard) to view.
 

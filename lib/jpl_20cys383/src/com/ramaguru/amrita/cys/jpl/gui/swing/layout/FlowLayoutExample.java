@@ -14,7 +14,7 @@ public class FlowLayoutExample extends JFrame {
 
     /**
      * Constructs the FlowLayoutExample window.
-     */
+     */ 
     public FlowLayoutExample() {
         setTitle("FlowLayout Example");
         //setSize(600, 80);

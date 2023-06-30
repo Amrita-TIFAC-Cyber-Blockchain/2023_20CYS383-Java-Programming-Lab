@@ -6,6 +6,10 @@
 
 #### Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
+<p align="center">
+  <img src="Assets/images/JPL_Class.jpg" width="800">
+</p>
+
 ### Course Outcome
 
 | CO#  | CO Description |

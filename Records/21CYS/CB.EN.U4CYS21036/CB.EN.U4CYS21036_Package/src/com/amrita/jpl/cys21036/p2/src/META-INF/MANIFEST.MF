@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.amrita.jpl.cys21036.p2.src.com.amrita.jpl.cys21036.p2.QuizGameClient
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="com.amrita.jpl.cys21044.pract" />
+      <sourceFolder url="file://$MODULE_DIR$/MathOperations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dectobin&amp;hex" isTestSource="false" packagePrefix="com.amrita.jpl.cys21044.ex.simplecal" />
+      <sourceFolder url="file://$MODULE_DIR$/gradeassign" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/newlayout" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

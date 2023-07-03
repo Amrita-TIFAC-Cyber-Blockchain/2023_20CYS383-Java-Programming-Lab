@@ -1,0 +1,3 @@
+document.txt,100,Document,Text
+image.jpg,500,Image,1920x1080
+video.mp4,2000,Video,10 minutes

@@ -1,6 +1,6 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown)
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -20,29 +20,31 @@
 
 ### Course Plan 
 
-| Unit # | Lecture No. | Topic | No. of Hours |
-|:------:|:-----------:|:-------|:------------:|
-|    1   |             | Introduction to Java ![](https://img.shields.io/badge/-Completed-green) 
- |   |
-|    1   |             | Introduction to Classes and Objects ![](https://img.shields.io/badge/-Completed-green)  |  | 
-|    1   |             | Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
-|    1   |             | Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
-|    1   |             | Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
-|    1   |             | Abstract class and methods, Interfaces and Packages ![](https://img.shields.io/badge/-Completed-green)  |   | 
-|    2   |             | Wrapper classes |   | 
-|    2   |             | String, and StringBuilder classes |   | 
-|    2   |             | Number, Math, Random, Array methods, Date-Time. |   | 
-|    2   |             | Java files and I/O, Exceptions, Inner classes. ![](https://img.shields.io/badge/-Completed-green)  |  | 
-|    2   |             | Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
-|    2   |             | Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
-|    2   |             | Serialization, Networking  ![](https://img.shields.io/badge/-Completed-green) |   | 
-|    3   |             | Concurrency Creating Threads, Thread states, Runnable threads |  | 
-|    3   |             | Coordinating Threads, Interrupting Threads |     | 
-|    3   |             | Multi-threading, Runnable Interface |  | 
-|    3   |             | UI integration of Java concepts with Swing ![](https://img.shields.io/badge/-Completed-green)  |   |
-|    3   |             | Frame Layouts, Widgets, displaying image and graphics ![](https://img.shields.io/badge/-Completed-green)  |   | 
-|    3   |             | Applet basics |  |
+| Unit # | Topic | No. of Hours |
+|:------:|:-------|:------------:|
+|    1   |  Introduction to Java ![](https://img.shields.io/badge/-Completed-green) | |
+|    1   |  Introduction to Classes and Objects ![](https://img.shields.io/badge/-Completed-green)  |  | 
+|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
+|    1   |  Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
+|    1   |  Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
+|    1   |  Abstract class and methods, Interfaces and Packages ![](https://img.shields.io/badge/-Completed-green)  |   | 
+|    2   |  Wrapper classes |   | 
+|    2   |  String, and StringBuilder classes |   | 
+|    2   |  Number, Math, Random, Array methods, Date-Time. |   | 
+|    2   |  Java files and I/O, Exceptions, Inner classes. ![](https://img.shields.io/badge/-Completed-green)  |  | 
+|    2   |  Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
+|    2   |  Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
+|    2   |  Serialization, Networking  ![](https://img.shields.io/badge/-Completed-green) |   | 
+|    3   |  Concurrency Creating Threads, Thread states, Runnable threads |  | 
+|    3   |  Coordinating Threads, Interrupting Threads |     | 
+|    3   |  Multi-threading, Runnable Interface |  | 
+|    3   |  UI integration of Java concepts with Swing ![](https://img.shields.io/badge/-Completed-green)  |   |
+|    3   |  Frame Layouts, Widgets, displaying image and graphics ![](https://img.shields.io/badge/-Completed-green)  |   | 
+|    3   |  Applet basics |  |
 
+### Library for Reference
+
+[Amrita JPL](lib/)
 
 ### Evaluation Criteria
 
@@ -62,13 +64,14 @@
 | Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
 | Pair Programmer Finalization | 18 - Feb - 2023 |
 | Project Topic Finalization | 25 - Feb - 2023 |
-| Periodicals I | 05 - Mar - 2023  |
+| Periodicals I | 24 - Apr - 2023  |
+| Missed Periodicals I | 02 - May - 2023  |
 | Periodicals II | 13 - Jun - 2023 |
-| Mini-Project Review 2 | 15 - May - 2023 |
 | End Semester | 19 - Jun - 2023 |
 | Mini-Project and Record Submission | 20 - Jun - 2023 |
+| Mini-Project Review 2 | 13 - July - 2023 |
 
-Click [Contest LeaderBoard](LeaderBoard) to view.
+Click [Record](Records/21CYS) to view Records Submitted.
 
 ### Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.

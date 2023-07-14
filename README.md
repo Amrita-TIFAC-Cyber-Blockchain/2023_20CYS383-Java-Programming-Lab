@@ -24,7 +24,7 @@
 |:------:|:-------|:------------:|
 |    1   |  Introduction to Java ![](https://img.shields.io/badge/-Completed-green) | |
 |    1   |  Introduction to Classes and Objects ![](https://img.shields.io/badge/-Completed-green)  |  | 
-|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
+|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations ![](https://img.shields.io/badge/-Completed-green)   |  | 
 |    1   |  Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
 |    1   |  Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
 |    1   |  Abstract class and methods, Interfaces and Packages ![](https://img.shields.io/badge/-Completed-green)  |   | 
@@ -40,7 +40,7 @@
 |    3   |  Multi-threading, Runnable Interface |  | 
 |    3   |  UI integration of Java concepts with Swing ![](https://img.shields.io/badge/-Completed-green)  |   |
 |    3   |  Frame Layouts, Widgets, displaying image and graphics ![](https://img.shields.io/badge/-Completed-green)  |   | 
-|    3   |  Applet basics |  |
+|    3   |  Applet basics ![](https://img.shields.io/badge/-Completed-green)   |  |
 
 ### Library for Reference
 
@@ -50,8 +50,11 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Lab Evaluation/Contests (6 Nos) | 30 |
-| **[Internal]** Mini-Project + GitHub/Record Maintenance | 10 + 10 |
+| **[Internal]** Assignment - 1 | 5 |
+| **[Internal]** Practice Exercises | 10 |
+| **[Internal]** Java Package (Solved & Practice Exercises) | 10 |
+| **[Internal]** GitHub/Record Maintenance | 10 |
+| **[Internal]** Mini-Project (Idea Document + Implementation + Report) | 15 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
@@ -70,8 +73,26 @@
 | End Semester | 19 - Jun - 2023 |
 | Mini-Project and Record Submission | 20 - Jun - 2023 |
 | Mini-Project Review 2 | 13 - July - 2023 |
+| End Semester Viva | 15 - July - 2023 |
 
 Click [Record](Records/21CYS) to view Records Submitted.
+
+## HPOJ Exercises and Contests
+
+### Practice
+
+- [Abstract Method and Class](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramabstrct01)
+- [Java Inheritance - 1](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit01)
+- [Java Inheritance - 2](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit02)
+- [Java Inheritance - 3](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit03)
+- [Java Interfaces](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramintrfc01)
+- [Simple Calculator using Interface](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramintrfc02)
+
+### Exams
+
+- [Missed Periodicals](https://hpoj.cb.amrita.edu:8000/problem/20cys383missedexam)
+- [End Semester](https://hpoj.cb.amrita.edu:8000/contest/20cys383sem1)
+
 
 ### Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.

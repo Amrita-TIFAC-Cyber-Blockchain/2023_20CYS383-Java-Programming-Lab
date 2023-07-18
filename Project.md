@@ -27,7 +27,7 @@ In pair programming, the two programmers change roles between a developer and a 
 |  [JPL-MP-09](Mini-Project/9) |  A S Deepan <br/> Saranesh E S <br/> Vishnu K | Image Decrypter | 
 |  [JPL-MP-10](Mini-Project/10) |  Ashwin Anand <br/> Dyanesh S <br/> S Rajendraprasad | | 
 |  [JPL-MP-11](Mini-Project/11) |  Basi Reddy Rohith Reddy <br/> Golla Hemesh Sai <br/> Tippireddy Pavan Kumar Reddy | Leave Management System (LMS) |
-|  [JPL-MP-12](Mini-Project/12) |  Deepthi J <br/> S Adhwaith <br/> Yaswanth Gadamsetti | |
+|  [JPL-MP-12](Mini-Project/12) |  Deepthi J <br/> S Adhwaith <br/> Yaswanth Gadamsetti | E-Crime Investigation Portal |
 |  [JPL-MP-13](Mini-Project/13) |  G R Nitin <br/> Iniyan R <br/> S Suganth Sarvesh |  | 
 |  [JPL-MP-14](Mini-Project/14) |  Gokul <br/> Shree Om Sharma <br/> Sudipt Kumar | | 
 |  [JPL-MP-15](Mini-Project/15) |  Gokulachselvan C D <br/>  M C Vivek Veera <br/> Sushmanth V M  | Amrita Pacel Management System | 
@@ -44,15 +44,15 @@ In pair programming, the two programmers change roles between a developer and a 
 |  [JPL-MP-26](Mini-Project/26) |  Mittul R <br/> Molabanti Naga Ravi Chandra <br/> Sanneganti Dharmik | | 
 |  [JPL-MP-27](Mini-Project/27) |  Mohamed Jasir Faiez M M <br/> Niran R <br/> Nishanth V  | |   
 |  [JPL-MP-28](Mini-Project/28) |  Monish T <br/> Sudeep V <br/> Yuvaraj Kumar G P | |  
-|  [JPL-MP-29](Mini-Project/29) |  S A Mukesh | | 
+|  [JPL-MP-29](Mini-Project/29) |  S A Mukesh | E-Voting System | 
 |  [JPL-MP-30](Mini-Project/30) |  Nishanth S <br/> Pranav S R  |  |
 |  [JPL-MP-31](Mini-Project/31) |  P Jivan Prasadd | | 
 |  [JPL-MP-32](Mini-Project/32) |  Penugonda V S Ganasekhar <br/> Nagireddy Venkata Revan | |
 |  [JPL-MP-33](Mini-Project/33) |  Siddharth Krishna R <br/> Ram Surya Suresh Kumar |  | 
-|  [JPL-MP-34](Mini-Project/34) |  Roshni V | | 
+|  [JPL-MP-34](Mini-Project/34) |  Roshni V | UniCyme: BiCycle Sharing System| 
 |  [JPL-MP-35](Mini-Project/35) |  Sourabh Sasikanthan  | | 
 |  [JPL-MP-36](Mini-Project/36) |  Sudhir R T | |  
-|  [JPL-MP-37](Mini-Project/37) |  Vinoth Kumar D | | 
+|  [JPL-MP-37](Mini-Project/37) |  Vinoth Kumar D | Cryptocurrency Forensics Tool | 
 
 
 

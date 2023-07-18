@@ -16,31 +16,31 @@ In pair programming, the two programmers change roles between a developer and a 
 
 | Team Number # |   Pair Programmers   | Topics | 
 |:-------------:|:--------------------:|:-------|
-|  [JPL-MP-01](Mini-Project/1) |  Abinesh G <br/> Anu Priya P | |  
+|  [JPL-MP-01](Mini-Project/1) |  Abinesh G <br/> Anu Priya P | Recon Tool |  
 |  [JPL-MP-02](Mini-Project/2) |  Achyuth Anand <br/> Nived Dineshan | |  
-|  [JPL-MP-03](Mini-Project/3) |  Aishwarya G <br/> Alagu Soundarya G <br/> Suvetha D P | | 
+|  [JPL-MP-03](Mini-Project/3) |  Aishwarya G <br/> Alagu Soundarya G <br/> Suvetha D P | Hospital Management System | 
 |  [JPL-MP-04](Mini-Project/4) |  Aishwarya G S <br/> Kishanth K <br/> Sri Sai Tanvi Sonti | | 
-|  [JPL-MP-05](Mini-Project/5) |  Alooysius Vitalian J <br/> Kishore <br/> Sanjai Prashad D |  | 
-|  [JPL-MP-06](Mini-Project/6) |  Anuvarshini M K <br/> Karanam Hitesh Manjunath <br/> Kommuri Sai Suhitha Bala | |  
-|  [JPL-MP-07](Mini-Project/7) |  Aravind S <br/> G H Hem Sagar <br/> Seran Pandiyan I P | | 
-|  [JPL-MP-08](Mini-Project/8) |  Arjun C Santhosh <br/> Madhav Harikumar | | 
-|  [JPL-MP-09](Mini-Project/9) |  A S Deepan <br/> Saranesh E S <br/> Vishnu K | | 
+|  [JPL-MP-05](Mini-Project/5) |  Alooysius Vitalian J <br/> Kishore <br/> Sanjai Prashad D | Username OSINT | 
+|  [JPL-MP-06](Mini-Project/6) |  Anuvarshini M K <br/> Karanam Hitesh Manjunath <br/> Kommuri Sai Suhitha Bala | E-Voting System |  
+|  [JPL-MP-07](Mini-Project/7) |  Aravind S <br/> G H Hem Sagar <br/> Seran Pandiyan I P | Role Based Access Control (RBAC) | 
+|  [JPL-MP-08](Mini-Project/8) |  Arjun C Santhosh <br/> Madhav Harikumar | Internet and Mobile Banking System | 
+|  [JPL-MP-09](Mini-Project/9) |  A S Deepan <br/> Saranesh E S <br/> Vishnu K | Image Decrypter | 
 |  [JPL-MP-10](Mini-Project/10) |  Ashwin Anand <br/> Dyanesh S <br/> S Rajendraprasad | | 
-|  [JPL-MP-11](Mini-Project/11) |  Basi Reddy Rohith Reddy <br/> Golla Hemesh Sai <br/> Tippireddy Pavan Kumar Reddy | |
+|  [JPL-MP-11](Mini-Project/11) |  Basi Reddy Rohith Reddy <br/> Golla Hemesh Sai <br/> Tippireddy Pavan Kumar Reddy | Leave Management System (LMS) |
 |  [JPL-MP-12](Mini-Project/12) |  Deepthi J <br/> S Adhwaith <br/> Yaswanth Gadamsetti | |
 |  [JPL-MP-13](Mini-Project/13) |  G R Nitin <br/> Iniyan R <br/> S Suganth Sarvesh |  | 
 |  [JPL-MP-14](Mini-Project/14) |  Gokul <br/> Shree Om Sharma <br/> Sudipt Kumar | | 
-|  [JPL-MP-15](Mini-Project/15) |  Gokulachselvan C D <br/>  M C Vivek Veera <br/> Sushmanth V M  | | 
+|  [JPL-MP-15](Mini-Project/15) |  Gokulachselvan C D <br/>  M C Vivek Veera <br/> Sushmanth V M  | Amrita Pacel Management System | 
 |  [JPL-MP-16](Mini-Project/16) |  Gundala Kushal Bhavani Reddy <br/> Middivari Charan Kumar Reddy | | 
-|  [JPL-MP-17](Mini-Project/17) |  Harshitha Ranjith <br/> Nithin S <br/> Swetha V | |  
-|  [JPL-MP-18](Mini-Project/18) |  Lakshmi Narayan P <br/> Vinoth Kumar C <br/> K S Santhossh <br/>  | | 
+|  [JPL-MP-17](Mini-Project/17) |  Harshitha Ranjith <br/> Nithin S <br/> Swetha V | Recon Tool |  
+|  [JPL-MP-18](Mini-Project/18) |  Lakshmi Narayan P <br/> Vinoth Kumar C <br/> K S Santhossh <br/>  | Job Search Portal | 
 |  [JPL-MP-19](Mini-Project/19) |  Kakara Manoj Ram <br/> Koti Venkatadinesh Reddy |  | 
 |  [JPL-MP-20](Mini-Project/20) |  Karaka Sri Sai Nitin | |
 |  [JPL-MP-21](Mini-Project/21) |  Kavali Sai Suvarchala <br/> Umashankar Kavya |   |  
 |  [JPL-MP-22](Mini-Project/22) |  Ashwatha Prasad M K <br/> Nithya Pranav S <br/> Rakshan K  | | 
 |  [JPL-MP-23](Mini-Project/23) |  Madari Kuruba Ganesh <br/>  Nimmakayala Vihalroy <br/> Pushpanth Reddy P | | 
 |  [JPL-MP-24](Mini-Project/24) |  Manbendra Satpathy | | 
-|  [JPL-MP-25](Mini-Project/25) |  G Manomithran <br/> Bandreddy Ruthwik Krishna <br/> Vinayak R | | 
+|  [JPL-MP-25](Mini-Project/25) |  G Manomithran <br/> Bandreddy Ruthwik Krishna <br/> Vinayak R | Vulnerability Report Form | 
 |  [JPL-MP-26](Mini-Project/26) |  Mittul R <br/> Molabanti Naga Ravi Chandra <br/> Sanneganti Dharmik | | 
 |  [JPL-MP-27](Mini-Project/27) |  Mohamed Jasir Faiez M M <br/> Niran R <br/> Nishanth V  | |   
 |  [JPL-MP-28](Mini-Project/28) |  Monish T <br/> Sudeep V <br/> Yuvaraj Kumar G P | |  

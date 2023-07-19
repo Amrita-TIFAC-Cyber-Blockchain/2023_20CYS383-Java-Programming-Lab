@@ -22,6 +22,8 @@
 
 | Unit # | Topic | No. of Hours |
 |:------:|:-------|:------------:|
+|    0   |  Course Introduction  | | 
+|    0   |  Java Installation and Installation of IntelliJ | | 
 |    1   |  Introduction to Java ![](https://img.shields.io/badge/-Completed-green) | |
 |    1   |  Introduction to Classes and Objects ![](https://img.shields.io/badge/-Completed-green)  |  | 
 |    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations ![](https://img.shields.io/badge/-Completed-green)   |  | 
@@ -44,7 +46,7 @@
 
 ### Library for Reference
 
-[Amrita JPL](lib/)
+[Amrita Cyber - Java Programming Lab Package](lib/)
 
 ### Evaluation Criteria
 

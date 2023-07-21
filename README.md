@@ -22,27 +22,24 @@
 
 | Unit # | Topic | No. of Hours |
 |:------:|:-------|:------------:|
-|    0   |  Course Introduction  | | 
-|    0   |  Java Installation and Installation of IntelliJ | | 
-|    1   |  Introduction to Java ![](https://img.shields.io/badge/-Completed-green) | |
-|    1   |  Introduction to Classes and Objects ![](https://img.shields.io/badge/-Completed-green)  |  | 
-|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations ![](https://img.shields.io/badge/-Completed-green)   |  | 
-|    1   |  Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
-|    1   |  Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
-|    1   |  Abstract class and methods, Interfaces and Packages ![](https://img.shields.io/badge/-Completed-green)  |   | 
+|    0   |  Course Introduction  | 2 Hours | 
+|    0   |  Java Installation and Installation of IntelliJ | 3 Hours | 
+|    1   |  Introduction to Java | 3 Hours |
+|    1   |  Introduction to Classes and Objects  | 3 Hours | 
+|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
+|    1   |  Inheritance, overriding, and hiding methods: static, interface, and instance methods |   | 
+|    1   |  Polymorphism, Hiding Fields, Object Class, Final Class, and Methods |   | 
+|    1   |  Abstract class and methods, Interfaces, and Packages |  3 Hours | 
 |    2   |  Wrapper classes |   | 
 |    2   |  String, and StringBuilder classes |   | 
 |    2   |  Number, Math, Random, Array methods, Date-Time. |   | 
-|    2   |  Java files and I/O, Exceptions, Inner classes. ![](https://img.shields.io/badge/-Completed-green)  |  | 
+|    2   |  Java files and I/O, Exceptions, Inner classes. | 3 Hours | 
 |    2   |  Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
 |    2   |  Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
-|    2   |  Serialization, Networking  ![](https://img.shields.io/badge/-Completed-green) |   | 
-|    3   |  Concurrency Creating Threads, Thread states, Runnable threads |  | 
-|    3   |  Coordinating Threads, Interrupting Threads |     | 
-|    3   |  Multi-threading, Runnable Interface |  | 
-|    3   |  UI integration of Java concepts with Swing ![](https://img.shields.io/badge/-Completed-green)  |   |
-|    3   |  Frame Layouts, Widgets, displaying image and graphics ![](https://img.shields.io/badge/-Completed-green)  |   | 
-|    3   |  Applet basics ![](https://img.shields.io/badge/-Completed-green)   |  |
+|    2   |  Networking and Socket Programming | 3 Hours  | 
+|    3   |  UI integration of Java concepts with Swing | 3 Hours  |
+|    3   |  Frame Layouts, Widgets, displaying images and graphics | 3 Hours  | 
+|    3   |  Applet Basics  | 1 Hour |
 
 ### Library for Reference
 

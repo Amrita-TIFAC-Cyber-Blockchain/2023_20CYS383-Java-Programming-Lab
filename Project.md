@@ -42,8 +42,8 @@ In pair programming, the two programmers change roles between a developer and a 
 |  [JPL-MP-24](Mini-Project/24) | Manbendra Satpathy | E-Voting System | 
 |  [JPL-MP-25](Mini-Project/25) | G Manomithran <br/> Bandreddy Ruthwik Krishna <br/> Vinayak R | Vulnerability Report Form | 
 |  [JPL-MP-26](Mini-Project/26) | Mittul R <br/> Molabanti Naga Ravi Chandra <br/> Sanneganti Dharmik | E-Voting System | 
-|  [JPL-MP-27](Mini-Project/27) | Mohamed Jasir Faiez M M <br/> Niran R <br/> Nishanth V  | |   
-|  [JPL-MP-28](Mini-Project/28) | Monish T <br/> Sudeep V <br/> Yuvaraj Kumar G P | |  
+|  [JPL-MP-27](Mini-Project/27) | Mohamed Jasir Faiez M M <br/> Niran R <br/> Nishanth V  | Secure Internet Banking |   
+|  [JPL-MP-28](Mini-Project/28) | Monish T <br/> Sudeep V <br/> Yuvaraj Kumar G P | Ship Detection |  
 |  [JPL-MP-29](Mini-Project/29) | S A Mukesh | E-Voting System | 
 |  [JPL-MP-30](Mini-Project/30) | Nishanth S <br/> Pranav S R  | Geolocation Tool |
 |  [JPL-MP-31](Mini-Project/31) | P Jivan Prasadd | Secure E-Voting | 

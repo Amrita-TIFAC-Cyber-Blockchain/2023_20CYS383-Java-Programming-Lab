@@ -34,24 +34,24 @@ In pair programming, the two programmers change roles between a developer and a 
 |  [JPL-MP-16](Mini-Project/16) | Gundala Kushal Bhavani Reddy <br/> Middivari Charan Kumar Reddy | | 
 |  [JPL-MP-17](Mini-Project/17) | Harshitha Ranjith <br/> Nithin S <br/> Swetha V | Recon Tool |  
 |  [JPL-MP-18](Mini-Project/18) | Lakshmi Narayan P <br/> Vinoth Kumar C <br/> K S Santhossh <br/>  | Job Search Portal | 
-|  [JPL-MP-19](Mini-Project/19) | Kakara Manoj Ram <br/> Koti Venkatadinesh Reddy |  | 
-|  [JPL-MP-20](Mini-Project/20) | Karaka Sri Sai Nitin | |
-|  [JPL-MP-21](Mini-Project/21) | Kavali Sai Suvarchala <br/> Umashankar Kavya |   |  
+|  [JPL-MP-19](Mini-Project/19) | Kakara Manoj Ram <br/> Koti Venkatadinesh Reddy | E-Voting System | 
+|  [JPL-MP-20](Mini-Project/20) | Karaka Sri Sai Nitin | E-Voting System |
+|  [JPL-MP-21](Mini-Project/21) | Kavali Sai Suvarchala <br/> Umashankar Kavya | Payment Management System |  
 |  [JPL-MP-22](Mini-Project/22) | Ashwatha Prasad M K <br/> Nithya Pranav S <br/> Rakshan K  | | 
 |  [JPL-MP-23](Mini-Project/23) | Madari Kuruba Ganesh <br/>  Nimmakayala Vihalroy <br/> Pushpanth Reddy P | Banking Application | 
 |  [JPL-MP-24](Mini-Project/24) | Manbendra Satpathy | E-Voting System | 
 |  [JPL-MP-25](Mini-Project/25) | G Manomithran <br/> Bandreddy Ruthwik Krishna <br/> Vinayak R | Vulnerability Report Form | 
-|  [JPL-MP-26](Mini-Project/26) | Mittul R <br/> Molabanti Naga Ravi Chandra <br/> Sanneganti Dharmik | | 
+|  [JPL-MP-26](Mini-Project/26) | Mittul R <br/> Molabanti Naga Ravi Chandra <br/> Sanneganti Dharmik | E-Voting System | 
 |  [JPL-MP-27](Mini-Project/27) | Mohamed Jasir Faiez M M <br/> Niran R <br/> Nishanth V  | |   
 |  [JPL-MP-28](Mini-Project/28) | Monish T <br/> Sudeep V <br/> Yuvaraj Kumar G P | |  
 |  [JPL-MP-29](Mini-Project/29) | S A Mukesh | E-Voting System | 
-|  [JPL-MP-30](Mini-Project/30) | Nishanth S <br/> Pranav S R  |  |
-|  [JPL-MP-31](Mini-Project/31) | P Jivan Prasadd | | 
-|  [JPL-MP-32](Mini-Project/32) | Penugonda V S Ganasekhar <br/> Nagireddy Venkata Revan | |
+|  [JPL-MP-30](Mini-Project/30) | Nishanth S <br/> Pranav S R  | Geolocation Tool |
+|  [JPL-MP-31](Mini-Project/31) | P Jivan Prasadd | Secure E-Voting | 
+|  [JPL-MP-32](Mini-Project/32) | Penugonda V S Ganasekhar <br/> Nagireddy Venkata Revan | Secure E - Voting |
 |  [JPL-MP-33](Mini-Project/33) | Siddharth Krishna R <br/> Ram Surya Suresh Kumar |  | 
-|  [JPL-MP-34](Mini-Project/34) | Roshni V | UniCyme: BiCycle Sharing System| 
+|  [JPL-MP-34](Mini-Project/34) | Roshni V | Vehicle Damage Detector (Car) | 
 |  [JPL-MP-35](Mini-Project/35) | Sourabh Sasikanthan  | | 
-|  [JPL-MP-36](Mini-Project/36) | Sudhir R T | |  
+|  [JPL-MP-36](Mini-Project/36) | Sudhir R T | E-Voting System |  
 |  [JPL-MP-37](Mini-Project/37) | Vinoth Kumar D | Cryptocurrency Forensics Tool | 
 
 

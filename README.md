@@ -1,10 +1,14 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown)
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
 #### Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
+
+<p align="center">
+  <img src="Assets/images/JPL_Class.jpg" width="800">
+</p>
 
 ### Course Outcome
 
@@ -16,35 +20,40 @@
 
 ### Course Plan 
 
-| Unit # | Lecture No. | Topic | No. of Hours |
-|:------:|:-----------:|:-------|:------------:|
-|    1   |             | Introduction to Java |   |
-|    1   |             | Introduction to Classes and Objects |  | 
-|    1   |             | Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
-|    1   |             | Inheritance, overriding and hiding methods: static, interface and instance methods |   | 
-|    1   |             | Polymorphism, Hiding Fields, Object Class, Final Class and Methods |   | 
-|    1   |             | Abstract class and methods, Interfaces and Packages |   | 
-|    2   |             | Wrapper classes |   | 
-|    2   |             | String, and StringBuilder classes |   | 
-|    2   |             | Number, Math, Random, Array methods, Date-Time. |   | 
-|    2   |             | Java files and I/O, Exceptions, Inner classes. |  | 
-|    2   |             | Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
-|    2   |             | Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
-|    2   |             | Serialization, Networking |  | 
-|    3   |             | Concurrency Creating Threads, Thread states, Runnable threads |  | 
-|    3   |             | Coordinating Threads, Interrupting Threads |     | 
-|    3   |             | Multi-threading, Runnable Interface |  | 
-|    3   |             | UI integration of Java concepts with Swing |   |
-|    3   |             | Frame Layouts, Widgets, displaying image and graphics |   | 
-|    3   |             | Applet basics |  |
+| Unit # | Topic | No. of Hours |
+|:------:|:-------|:------------:|
+|    0   |  Course Introduction  | 2 Hours | 
+|    0   |  Java Installation and Installation of IntelliJ | 3 Hours | 
+|    1   |  Introduction to Java | 3 Hours |
+|    1   |  Introduction to Classes and Objects  | 3 Hours | 
+|    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
+|    1   |  Inheritance, overriding, and hiding methods: static, interface, and instance methods |   | 
+|    1   |  Polymorphism, Hiding Fields, Object Class, Final Class, and Methods |   | 
+|    1   |  Abstract class and methods, Interfaces, and Packages |  3 Hours | 
+|    2   |  Wrapper classes |   | 
+|    2   |  String, and StringBuilder classes |   | 
+|    2   |  Number, Math, Random, Array methods, Date-Time. |   | 
+|    2   |  Java files and I/O, Exceptions, Inner classes. | 3 Hours | 
+|    2   |  Collection framework- Comparator and Comparable, Vector and Array list, Iterator and Iterable |  | 
+|    2   |  Collection Interfaces: Collection, Set, List, Queue, Dequeue, Map, Object ordering, Sorted Set, Sorted Map, Generics |    | 
+|    2   |  Networking and Socket Programming | 3 Hours  | 
+|    3   |  UI integration of Java concepts with Swing | 3 Hours  |
+|    3   |  Frame Layouts, Widgets, displaying images and graphics | 3 Hours  | 
+|    3   |  Applet Basics  | 1 Hour |
 
+### Library for Reference
+
+[Amrita Cyber - Java Programming Lab Package](lib/)
 
 ### Evaluation Criteria
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Lab Evaluation/Contests (6 Nos) | 30 |
-| **[Internal]** Mini-Project + GitHub/Record Maintenance | 10 + 10 |
+| **[Internal]** Assignment - 1 | 5 |
+| **[Internal]** Practice Exercises | 10 |
+| **[Internal]** Java Package (Solved & Practice Exercises) | 10 |
+| **[Internal]** GitHub/Record Maintenance | 10 |
+| **[Internal]** Mini-Project (Idea Document + Implementation + Report) | 15 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
@@ -57,20 +66,32 @@
 | Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
 | Pair Programmer Finalization | 18 - Feb - 2023 |
 | Project Topic Finalization | 25 - Feb - 2023 |
-| Contest - 1 | 20 - Mar - 2023 |
-| Periodicals I | 05 - Mar - 2023  |
-| Mini-Project Review 1| 15 - Apr - 2023 |
-| Contest - 2 |  - Apr - 2023 |
-| Periodicals II | TBD |
-| Contest - 3 | 08 - May - 2023 |
-| Mini-Project Review 2 | 15 - May - 2023 |
-| Contest - 4 | 25 - May - 2023 |
-| Contest - 5 | 01 - Jun - 2023 |
-| Contest - 6 | 15 - Jun - 2023 |
-| Mini-Project Review Final | 20 - Jun - 2023 |
-| End Semester | TBD |
+| Periodicals I | 24 - Apr - 2023  |
+| Missed Periodicals I | 02 - May - 2023  |
+| Periodicals II | 13 - Jun - 2023 |
+| End Semester | 19 - Jun - 2023 |
+| Mini-Project and Record Submission | 20 - Jun - 2023 |
+| Mini-Project Review 2 | 13 - July - 2023 |
+| End Semester Viva | 15 - July - 2023 |
 
-Click [Contest LeaderBoard](LeaderBoard) to view.
+Click [Record](Records/21CYS) to view Records Submitted.
+
+## HPOJ Exercises and Contests
+
+### Practice
+
+- [Abstract Method and Class](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramabstrct01)
+- [Java Inheritance - 1](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit01)
+- [Java Inheritance - 2](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit02)
+- [Java Inheritance - 3](https://hpoj.cb.amrita.edu:8000/problem/20cys383raminherit03)
+- [Java Interfaces](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramintrfc01)
+- [Simple Calculator using Interface](https://hpoj.cb.amrita.edu:8000/problem/20cys383ramintrfc02)
+
+### Exams
+
+- [Missed Periodicals](https://hpoj.cb.amrita.edu:8000/problem/20cys383missedexam)
+- [End Semester](https://hpoj.cb.amrita.edu:8000/contest/20cys383sem1)
+
 
 ### Text and Reference Books
 - **Text:** Deitel PJ. Java how to program. Eleventh Edition, Pearson; 2018.

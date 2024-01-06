@@ -1,0 +1,4 @@
+Document Name: pavan.txt
+File Size: 80
+Document Type: txt
+
